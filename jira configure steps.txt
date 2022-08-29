@@ -1,0 +1,21 @@
+jira work flow
+--------------
+how to install and configure the jira tool
+
+enter the url in chrome brower
+https://www.atlassian.com/software/jira/free
+click on Next
+Continue with google
+Choose an account
+Create your account
+give one valid and proffesional site
+click on agree
+
+
+
+https://swhizz-tech.atlassian.net/welcome/software
+
+Project management tool:
+developer &testers
+Scrum framework
+ 
